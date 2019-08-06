@@ -28,30 +28,6 @@
   </component>
   <component name="ProjectId" id="1P44vzsXrM6llj20Myx8ZCFBUdw" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="codewars" type="b2602c69:ProjectViewProjectNode" />
-              <item name="codewars" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="codewars" type="b2602c69:ProjectViewProjectNode" />
-              <item name="codewars" type="462c0819:PsiDirectoryNode" />
-              <item name="8-kyu" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-    </panes>
-  </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -82,7 +58,7 @@
       <updated>1563996800660</updated>
       <workItem from="1563996804777" duration="1332000" />
       <workItem from="1563998160690" duration="1287000" />
-      <workItem from="1565120294537" duration="1558000" />
+      <workItem from="1565120294537" duration="2808000" />
     </task>
     <servers />
   </component>
