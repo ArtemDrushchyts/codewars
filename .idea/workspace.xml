@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ac969041-58bb-4ed4-bb42-c6d1468c52f7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/6-kyu/findOdd.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6-kyu/likes.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -64,7 +64,7 @@
       <workItem from="1563996804777" duration="1332000" />
       <workItem from="1563998160690" duration="1287000" />
       <workItem from="1565120294537" duration="8735000" />
-      <workItem from="1565288785671" duration="2008000" />
+      <workItem from="1565288785671" duration="3682000" />
     </task>
     <servers />
   </component>
