@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ac969041-58bb-4ed4-bb42-c6d1468c52f7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/6-kyu/isValidWalk.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -66,7 +65,8 @@
       <workItem from="1565120294537" duration="8735000" />
       <workItem from="1565288785671" duration="4014000" />
       <workItem from="1565800214133" duration="238000" />
-      <workItem from="1565891727884" duration="1127000" />
+      <workItem from="1565891727884" duration="1853000" />
+      <workItem from="1566144917243" duration="386000" />
     </task>
     <servers />
   </component>
